@@ -2,4 +2,5 @@ __pycache__/
 *.pyc
 .venv/
 datasets/rectangles_data.csv
+
 *.csv
